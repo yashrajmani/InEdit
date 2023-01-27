@@ -1,3 +1,10 @@
+
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/yashrajmani/InEdit?style=for-the-badge)](https://github.com/yashrajmani/)
+[![LAST COMMIT](https://img.shields.io/github/last-commit/yashrajmani/InEdit?style=for-the-badge)](https://github.com/yashrajmani/)
+[![Languages](https://img.shields.io/github/languages/count/yashrajmani/InEdit?style=for-the-badge)](https://github.com/yashrajmani/)
+[![Follow Me on GitHub:](https://img.shields.io/github/followers/yashrajmani?style=for-the-badge)](https://github.com/yashrajmani/)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/yashrajmani/InEdit?style=for-the-badge)](https://github.com/yashrajmani/)
+
 # InEdit
 ## Flutter Cross platform IMAGE EDITOR
  
