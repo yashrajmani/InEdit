@@ -12,7 +12,7 @@
 <img src="https://github.com/yashrajmani/InEdit/blob/main/assets/splash/splash_logo.png" align="right" height="250" width="250"/>
 
  
-### Download apk from Gdrive by clicking on the above link or here: [APK]()
+### Download apk from Gdrive by clicking on the above link or here: https://drive.google.com/file/d/1qPA3GRqNPcsBeA4uCVj3Y-Snj48Ls2vn/view?usp=sharing
 
 
 ## Features and Interfaces:
